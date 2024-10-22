@@ -1,2 +1,3 @@
 i relly wanted to know how git and github works
  so i beleive it works this way
+ and i want to work with it more
