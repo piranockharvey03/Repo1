@@ -4,4 +4,4 @@ in love with git and knowing that it is one
 tool that i needed if i wanted to be a good developer.
 
 
-its a very short story but i hope it will inspire someone out ther.
+its a very short story but i hope it will inspire someone out there.
