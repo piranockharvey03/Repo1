@@ -2,7 +2,7 @@ In my second year at University
 I always watched my lecturer execute git commands for his side hustle as a full stack developer
 and i always wanted to do whatever he was doing
 i basically knew what he did in mind but the how to excute the commands and from where 
-and most of all why to excute the commands(the reason for commadn excecution) 
+and most of all why to excute the commands(the reason for command excecution) 
 so i got to youtube, found a guy called Navin (Telusko)
 and he taught me how to do it
 guess what?
